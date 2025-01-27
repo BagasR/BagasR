@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bagaskara-dwi-rizky-67b39a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagaskara dwi rizky" height="30" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/09e5cac1-1499-4d38-bed9-620282ccff29" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="bagaskara dwi rizky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
