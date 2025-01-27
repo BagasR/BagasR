@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Operator PDDIKTI**
 - 🎓 Study S1 Informatics Engineering
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
