@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasr&label=Profile%20views&color=0e75b6&style=flat" alt="bagasr" /> </p>
 
 - 🔭 I’m currently working on **Operator PDDIKTI**
+- 🎓 Study S1 Informatics Engineering
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
