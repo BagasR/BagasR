@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bagaskara Dwi Rizky</h1>
-<h3 align="center">Hai, saya seorang mahasiswa jurusan teknik informatika yang ingin belajar lebih banyak tentang coding dan pengujian perangkat lunak. Selain itu, saya sangat tertarik untuk menjadi lebih mahir dalam pengembangan Back End Developer dan Machine Learning.</h3>
+<h3 align="center">Informatics Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasr&label=Profile%20views&color=0e75b6&style=flat" alt="bagasr" /> </p>
 
